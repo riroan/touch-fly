@@ -8,8 +8,6 @@
 pip install pygame
 ```
 
----
-
 ## implementation
 ```
 python main.py
