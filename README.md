@@ -22,9 +22,9 @@ python main.py
 |그림|내용|
 |:---:|:---:|
 |main menu| <img src="images/screen_shot/2.png" height = "500"/>|
-
+|||
 | level menu  | <img src="images/screen_shot/1.png" height = "500"/>|
-
-|<img src="images/screen_shot/3.png" height = "500"/> |<img src="images/screen_shot/4.png" height = "500"/>|
-
-| in-game | score |
+|||
+| in-game |<img src="images/screen_shot/3.png" height = "500"/>|
+|||
+|score |  <img src="images/screen_shot/4.png" height = "500"/>|
