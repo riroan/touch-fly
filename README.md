@@ -1,6 +1,6 @@
 # touch-fly
 
-### 최대한 위로 올라가세요!!
+### Go up as far as you can!!
 
 ## requirement
 
@@ -12,3 +12,19 @@ pip install pygame
 ```
 python main.py
 ```
+```
+← : left jump
+→ : right jump
+```
+
+## Demo
+
+|그림|내용|
+|:---:|:---:|
+|main menu| <img src="images/screen_shot/2.png" height = "500"/>|
+
+| level menu  | <img src="images/screen_shot/1.png" height = "500"/>|
+
+|<img src="images/screen_shot/3.png" height = "500"/> |<img src="images/screen_shot/4.png" height = "500"/>|
+
+| in-game | score |
