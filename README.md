@@ -2,14 +2,9 @@
 
 ### Go up as far as you can!!
 
-## requirement
-
-```
-pip install pygame
-```
-
 ## implementation
 ```
+pip install pygame
 python main.py
 ```
 ```
