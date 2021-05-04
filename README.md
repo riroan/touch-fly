@@ -19,7 +19,6 @@ python main.py
 
 ## Demo
 
-|:---:|:---:|
 |main menu| <img src="images/screen_shot/1.png" height = "500"/>|
 | level menu  | <img src="images/screen_shot/2.png" height = "500"/>|
 | in-game |<img src="images/screen_shot/3.png" height = "500"/>|
