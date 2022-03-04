@@ -2,7 +2,7 @@
 
 ### Go up as far as you can!!
 
-## mplementation
+## Installation and Implementation
 ```
 pip install pygame
 python main.py
